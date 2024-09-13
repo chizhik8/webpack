@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack=self.webpackChunkwebpack||[]).push([[792],{827:()=>{console.log("Hello, world!"),console.log(253)}},e=>{e(e.s=827)}]);
