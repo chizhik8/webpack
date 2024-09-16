@@ -51,3 +51,17 @@ integrate TypeScript with webpack `npm install --save-dev typescript ts-loader`
 webpack-dev-server can be used to quickly develop an application
 `https://webpack.js.org/configuration/dev-server/#root`
 set port `npm start -- --env port=5000` or by default will be 3030 `npm start`
+
+# Installing React and TypeScript Types
+`npm i react@18.2.0 react-dom@18.2.0`
+`npm i -D @types/react@18.2.25 @types/react-dom@18.2.11`
+replace .ts with .tsx
+
+css-loader: `https://webpack.js.org/loaders/css-loader/#root`
+
+style-loader: `https://webpack.js.org/loaders/style-loader/#root`
+
+sass-loader: `https://webpack.js.org/loaders/sass-loader/#root`
+
+MiniCssExtractPlugin: `https://webpack.js.org/plugins/mini-css-extract-plugin/#root`
+
